@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-playbooks-and-enablement","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\PlaybooksAndEnablement\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\PlaybooksAndEnablement\\PlaybooksAndEnablementServiceProvider"]},"liberu":{"name":"crm-playbooks-and-enablement"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-playbooks-and-enablement","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\PlaybooksAndEnablement\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\PlaybooksAndEnablement\\PlaybooksAndEnablementServiceProvider"]},"liberu":{"name":"crm-playbooks-and-enablement"}},"description":"Guided scripts, qualification, coaching, recommendations and usage analytics","license":"MIT"}
